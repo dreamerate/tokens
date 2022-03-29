@@ -1,0 +1,25 @@
+{
+  "name": "AvatarToken",
+  "logoURI": "https://raw.githubusercontent.com/TP-Lab/tokens/1c5c04cbd7c8ceaa499b8a59c9670b08142f5462/bsc/0x6Cac69efdA85888DCE4D7576bc8E366f4F444B28/logo.png",
+  "keywords": [
+      "GameFi",
+      "ATAR",
+      "Avatar"
+    ],
+    "timestamp": "2022-03-28T03:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 56,
+      "address": "0x6Cac69efdA85888DCE4D7576bc8E366f4F444B28",
+      "name": "AvatarToken",
+      "symbol": "ATAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TP-Lab/tokens/1c5c04cbd7c8ceaa499b8a59c9670b08142f5462/bsc/0x6Cac69efdA85888DCE4D7576bc8E366f4F444B28/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
